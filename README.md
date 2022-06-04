@@ -1,5 +1,5 @@
 # SerialSniffer
-Processing https://processing.org/download 4 sketch to collect input from serial ports (both com and uart)
+Processing 4 https://processing.org/download sketch to collect input from serial ports (both com and uart)
 
 Sketch will sniff all the com and serial (uart) ports on the computer and record the first eventCountLimit (default as 100)
 in a log file    //logs/Always_Same_Name_Logger.log
